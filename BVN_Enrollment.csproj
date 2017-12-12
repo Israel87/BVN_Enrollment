@@ -74,7 +74,6 @@
     <Content Include="bin\BVN_Enrollment.dll" />
     <Content Include="bin\BVN_Enrollment.pdb" />
     <Content Include="bin\Newtonsoft.Json.dll" />
-    <Content Include="bin\Newtonsoft.Json.xml" />
     <Content Include="bin\Oracle.DataAccess.dll" />
     <Content Include="bin\Oracle.ManagedDataAccess.dll" />
     <Content Include="bin\Oracle.Web.dll" />
